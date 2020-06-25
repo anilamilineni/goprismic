@@ -1,7 +1,7 @@
 package block
 
 import (
-	"github.com/SoCloz/goprismic/fragment/embed"
+	"github.com/anilamilineni/goprismic/fragment/embed"
 )
 
 // A embed block
