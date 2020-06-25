@@ -1,7 +1,7 @@
 package span
 
 import (
-	"github.com/SoCloz/goprismic/fragment/link"
+	"github.com/anilamilineni/goprismic/fragment/link"
 )
 
 type SpanInterface interface {
