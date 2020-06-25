@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"html"
 
-	"github.com/SoCloz/goprismic/fragment/link"
-	"github.com/SoCloz/goprismic/fragment/span"
+	"github.com/anilamilineni/goprismic/fragment/link"
+	"github.com/anilamilineni/goprismic/fragment/span"
 )
 
 // Common block properties
