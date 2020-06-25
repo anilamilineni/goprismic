@@ -3,8 +3,8 @@ package fragment
 import (
 	"fmt"
 
-	"github.com/SoCloz/goprismic/fragment/block"
-	"github.com/SoCloz/goprismic/fragment/link"
+	"github.com/anilamilineni/goprismic/fragment/block"
+	"github.com/anilamilineni/goprismic/fragment/link"
 )
 
 // A structured text fragment is a list of blocks
